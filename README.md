@@ -81,7 +81,9 @@ Automating ETL enables efficient and repeatable data integration processes, form
 **refernce video links**: 1) https://youtu.be/3J1D33US7NM?si=kqQRnZI5pT2yQT3Phttps://youtu.be/3J1D33US7NM?si=kqQRnZI5pT2yQT3P
                           2) https://youtu.be/Tq8oCFjP6kQ?si=cAjN87rxo_s23eQb
                           
+#output of the task
 
+![outputimage](https://github.com/user-attachments/assets/741ff7a7-79fc-4e28-afe4-451771348634)
 
 
 
